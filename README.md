@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alireza
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS/JS
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Rust
 - 💞️ Feel free to contact me to collaborate on projects :)
 - 📫 You can reach me via my personal website: azabet.im
 
