@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alireza
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Rust
-- 💞️ Feel free to contact me to collaborate on projects :)
-- 📫 You can reach me via my personal website: azabet.im
+- 👀 I'm interested in anything technical and one which requires a keen eye
+- 🌱 I’m currently learning Rust & Electronics
 
 <!---
 ahzabet/ahzabet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
